@@ -94,3 +94,10 @@ fun endingsForMinAndHours(timeRule:String,timeDigits:Int):String{
 }
 
 
+//Задача №2 - Разная комиссия
+
+const val MASTERCARD = "MASTERCARD"
+const val MAESTRO = "MAESTRO"
+const val VISA = "VISA"
+const val MIR = "Мир"
+const val VKPAY = "VK Pay"
